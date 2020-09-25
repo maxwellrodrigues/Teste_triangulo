@@ -29,10 +29,10 @@ public class Program {
 			System.out.printf("A área do triângulo  X é: %.4f%n", areaX);
 			System.out.printf("A área do triângulo  Y é: %.4f%n", areaY);
 			if (areaX > areaY) {
-			System.out.println("Maior área: X");
+			System.out.println("Maior área é: X");
 			}
 			else {
-			System.out.println("Maior área: Y");
+			System.out.println("Maior área é: Y");
 			}
 				
 		sc.close();
